@@ -1,0 +1,8 @@
+initial_pose: {x: 2.5, y: 3.0, yaw: 0.0}
+goals:
+  - {name: east_office, x: 8.5, y: 1.0, yaw: 0.0}
+  - {name: lab, x: 14.0, y: 3.2, yaw: 1.57}
+  - {name: meeting_room, x: 11.5, y: 10.5, yaw: 3.14}
+  - {name: corridor, x: 8.5, y: 8.5, yaw: 3.14}
+  - {name: north_west_room, x: 2.5, y: 10.8, yaw: -1.57}
+  - {name: start, x: 2.5, y: 3.0, yaw: 0.0}
